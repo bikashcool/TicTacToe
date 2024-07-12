@@ -1,0 +1,1 @@
+This is a simple Tic Tac Toe game built using HTML, CSS, and JavaScript. It allows two players to play the classic game on a 3x3 grid. The interface is user-friendly and responsive, ensuring a smooth experience on both desktop and mobile devices.
